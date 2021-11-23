@@ -45,9 +45,9 @@
     <li>BeanFactory<br><br>
     IoC/DI에 대한 기본 기능을 가지고 있습니다.</li><br>
     <li>ApplicationContext<br><br>
-    BeanFactory의 모든 기능을 포함하며, 일반적으로 BeanFactory보다 추천됩니다.<br><br>
-    트랜잭션 처리, AOP등에 대한 처리를 할 수 있습니다.<br><br>
-    BeanPostProcessor, BeanFactoryPostProcessor등을 자동으로 등록하고, 국제화 처리,<br><br> 어플리케이션 이벤트 등을 처리할 수 있습니다.
+    1, BeanFactory의 모든 기능을 포함하며, 일반적으로 BeanFactory보다 추천됩니다.<br><br>
+    2, 트랜잭션 처리, AOP등에 대한 처리를 할 수 있습니다.<br><br>
+    3, BeanPostProcessor, BeanFactoryPostProcessor등을 자동으로 등록하고, 국제화 처리,<br><br> 어플리케이션 이벤트 등을 처리할 수 있습니다.
     </li><br>
   </ul>
  
